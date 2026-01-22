@@ -10,6 +10,8 @@
     "location": { "address": "3033 Ala Ilima St", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "terisa-lau", "url": "http://github.com/terisa-lau" },
+      { "network": "linkedin", "username": "terisa-lau", "url": "http://linkedin.com/in/terisa-lau" },
+      { "network": "linkedin", "username": "terisa-lau", "url": "http://linkedin.com/in/terisa-lau" },
       { "network": "linkedin", "username": "terisa-lau", "url": "http://linkedin.com/in/terisa-lau" }
     ]
   },
@@ -17,6 +19,7 @@
     { "name": "Music" },
     { "name": "Video Games" },
     { "name": "Cooking" },
+    { "name": "Cats" },
     { "name": "Cats" }
   ],
   "skills": [
