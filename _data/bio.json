@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "terisa-lau", "url": "http://github.com/terisa-lau" },
       { "network": "linkedin", "username": "terisa-lau", "url": "http://linkedin.com/in/terisa-lau" },
-      { "network": "linkedin", "username": "terisa-lau", "url": "http://linkedin.com/in/terisa-lau" }
+      { "network": "", "username": "", "url": "" }
     ]
   },
   "interests": [
