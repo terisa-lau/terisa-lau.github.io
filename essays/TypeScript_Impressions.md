@@ -21,7 +21,15 @@ In JavaScript, you do not need to explicitly define types when declaring variabl
 
 ## Athletic Software Engineering
 
-<div style="display: flex; align-items: flex-start; margin: 20px 0;"> <img width="200px" src="../img/brainPower.png" class="rounded" style="margin-right: 20px; flex-shrink: 0;"> <div> I was introduced to the concept of Athletic Software Engineering (ASE) by my software engineering class professor. The whole concept is focused on the "athletic" part. Just like athletic training, the following are required for growth: <br><br> - Difficulty Increase: Adding on more weight to the bar<br> - Specificity: Focusing on a specific muscle group<br> - Reflection: Knowing strengths and weaknesses in order to improve that specific area/technique. <br><br> In this class, we were given Workouts of the Day (WODs) as our ASE training. </div> </div>
+<div style="text-align: center; margin: 20px 0;"> <img width="200px" src="../img/brainPower.png" class="rounded"> </div>
+
+I was introduced to the concept of Athletic Software Engineering (ASE) by my software engineering class professor. The whole concept is focused on the "athletic" part. Just like athletic training, the following are required for growth:
+
+- Difficulty Increase: Adding on more weight to the bar
+- Specificity : Focusing on a specific muscle group
+- Reflection: Knowing strengths and weaknesses in order to improve that specific area/technique.
+
+In this class, we were given Workouts of the Day (WODs) as our ASE training.
 
 ## WODs: How they help
 
