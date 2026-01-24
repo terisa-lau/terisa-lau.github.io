@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "A new language as sport"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-23
 published: true
@@ -12,44 +12,30 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## JavaScript to TypeScript
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+When I first started out my coding journey, one of the first programming languages I learned was JavaScript. You can put anything into a variable and change your mind later. But for bigger projects, it is easy to lose track of the type of data you are working with. Enter TypeScript, a statically typed language that can catch mistakes before you run it. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## TypeScript: Extra Syntax? 
 
-Here's what I think: the difficult things will always be difficult.
+In JavaScript, you do not need to explicitly define types when declaring variables. If you have a function that adds 2 numbers, and a string is part of the input, you won't know until the program is run and produces errors. By using TypeScript, you can declare your expected values and outputs upfront. Having the type specified for variables and functions also serves as built-in documentation. You don't have to guess what a function expects or what it returns. This is especially valuable in team environments where multiple people work on the same codebase.
 
-## In the context of programming
+## Athletic Software Engineering
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+I was introduced to the concept of Athletic Software Engineering (ASE) by my software engineering class professor. The whole concept is focused on the "athletic" part, where you treat coding like a skill that needs to be challenged in order to be developed. In this class, we were also given Workouts of the Day (WODs). 
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+## WODs: How they help
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+Most software engineering jobs involve:
 
-## In the context of engineering
+*Understanding the requirements of the problem
+*Working with unfamiliar concepts
+*Produce working solutaions within time constrains
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+WODs recreate these pressures in a learning environment. It exposes us to different challenges, forces us to think and recognize patterns. 
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+## Seeking Help
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+Many people think that "real programmers" learn to code by trying to figure everything out on their own. However, the WODs reframe this by allowing us to use resources (documentation, AI assistance, online forums) as tools. After completing the WOD, we do a short reflection about our use of AI. Some questions include why we used AI, how we used AI, and what way was the AI useful/not useful. It teaches us to learn what kind of help to look for and to know when we should work through a problem and when it is appropriate to ask for help.
 
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
