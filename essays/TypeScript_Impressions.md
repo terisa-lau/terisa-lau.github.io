@@ -23,7 +23,13 @@ In JavaScript, you do not need to explicitly define types when declaring variabl
 
 ## Athletic Software Engineering
 
-I was introduced to the concept of Athletic Software Engineering (ASE) by my software engineering class professor. The whole concept is focused on the "athletic" part, where you treat coding like a skill that needs to be challenged in order to be developed. In this class, we were also given Workouts of the Day (WODs). 
+I was introduced to the concept of Athletic Software Engineering (ASE) by my software engineering class professor. The whole concept is focused on the "athletic" part. Just like athletic training, the following are required for growth:
+
+- Difficulty Increase: Adding on more weight to the bar
+- Specificity : Focusing on a specific muscle group
+- Reflection: Knowing strengths and weaknesses in order to improve that specific area/technique.
+
+In this class, we were given Workouts of the Day (WODs) as our ASE training.
 
 ## WODs: How they help
 
@@ -33,7 +39,7 @@ Most software engineering jobs involve:
 - Working with unfamiliar concepts
 - Produce working solutaions within time constrains
 
-WODs recreate these pressures in a learning environment. It exposes us to different challenges, forces us to think and recognize patterns. 
+WODs recreate these pressures in a learning environment. It exposes us to different challenges, forces us to think and recognize patterns fast. 
 
 ## Seeking Help
 
