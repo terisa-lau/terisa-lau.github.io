@@ -21,6 +21,8 @@ In JavaScript, you do not need to explicitly define types when declaring variabl
 
 ## Athletic Software Engineering
 
+<img width="200px" class="rounded float-start pe-4" src="../img/brainPower.png">
+
 I was introduced to the concept of Athletic Software Engineering (ASE) by my software engineering class professor. The whole concept is focused on the "athletic" part. Just like athletic training, the following are required for growth:
 
 - Difficulty Increase: Adding on more weight to the bar
