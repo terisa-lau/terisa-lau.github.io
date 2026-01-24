@@ -29,9 +29,9 @@ I was introduced to the concept of Athletic Software Engineering (ASE) by my sof
 
 Most software engineering jobs involve:
 
-*Understanding the requirements of the problem
-*Working with unfamiliar concepts
-*Produce working solutaions within time constrains
+-Understanding the requirements of the problem
+-Working with unfamiliar concepts
+-Produce working solutaions within time constrains
 
 WODs recreate these pressures in a learning environment. It exposes us to different challenges, forces us to think and recognize patterns. 
 
