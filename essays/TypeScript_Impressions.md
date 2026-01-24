@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A new language as sport"
+title: "A New Language as Sport"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-23
 published: true
@@ -44,4 +44,9 @@ WODs recreate these pressures in a learning environment. It exposes us to differ
 ## Seeking Help
 
 Many people think that "real programmers" learn to code by trying to figure everything out on their own. However, the WODs reframe this by allowing us to use resources (documentation, AI assistance, online forums) as tools. After completing the WOD, we do a short reflection about our use of AI. Some questions include why we used AI, how we used AI, and what way was the AI useful/not useful. It teaches us to learn what kind of help to look for and to know when we should work through a problem and when it is appropriate to ask for help.
+
+## Combo
+
+TypeScript and Athletic Software Engineering creates a complete practice. TypeScript can catch errors early on, while timed coding workouts build our resilience to solve problems under pressure. By using the combination, it will definitely prepare me to code in real environments.
+
 
