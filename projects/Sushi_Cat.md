@@ -22,4 +22,7 @@ For a Programming Animations class, we had to create an animation using Unity. W
 
 Here is the outcome:
 
+<video width="640" height="360" controls>
+  <source src="img/SushiCatVideo.mp4" type="video/mp4">
+</video>
 
