@@ -7,7 +7,7 @@
     "phone": "808-429-8819",
     "website": "https://terisa-lau.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
-    "location": { "address": "3033 Ala Ilima St", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {"city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "terisa-lau", "url": "http://github.com/terisa-lau" },
       { "network": "linkedin", "username": "terisa-lau", "url": "http://linkedin.com/in/terisa-lau" }
@@ -34,9 +34,9 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.A.",
-      "startDate": "20-08-25",
+      "startDate": "2023-08-25",
       "endDate": "Present",
-      "courses": [ "Software Engineering", "Computational Media Systems", "Machine Learning", "Data Structures and Algorithms"
+      "courses": [ "Software Engineering", "Computational Media Systems", "Machine Learning", "Data Structures and Algorithms", "Programming Animations"
       ]
     }
   ],
@@ -49,44 +49,33 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Provided technical support to students, faculty, and staff via phone, email, and walk-in service.",
+        "Diagnosed and troubleshooted a wide range of hardware and software issues, including campus network connectivity, university email clients, and learning management system access", "Collaborated with senior IT staff to escalate complex issues and contribute to team-wide problem-solving efforts."
+        
       ]
     }
   ],
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "website": "http://zhongshuusa.org/",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "startDate": "2023-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Lead educational activities during their Winter and Summer camps.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Planned, organized, and led activities ",
+        "Prepared materials and coordinated schedules with other staff.",
+        "Supervised and ensured the safety of campers."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
