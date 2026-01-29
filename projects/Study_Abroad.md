@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Bund.jpg
 title: "Study Abroad"
 date: 2025
 published: true
@@ -15,9 +15,9 @@ summary: "A Study Abroad program I attended in Summer 2025."
 
 I studied abroad in Summer 2025 in Shanghai, China. Here are some images during my time there:
 
-<img class="img-fluid" src="../img/QB.JPG">
+<img class="img-fluid" src="/img/QB.JPG">
 This picture was taken at Qibao Ancient Town.
-<img class="img-fluid" src="../img/GreenHouse.JPG">
-This picture was taken at the Shanghai Greenhourse Garden.
-<img class="img-fluid" src="../img/Museum.JPG">
-This picture was taken at the Shanghai Auto Museum
+<img class="img-fluid" src="/img/GreenHouse.JPG">
+This picture was taken at the Shanghai Greenhouse Garden.
+<img class="img-fluid" src="/img/Museum.JPG">
+This picture was taken at the Shanghai Auto Museum.
