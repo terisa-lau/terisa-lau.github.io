@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Smart Questions?"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+date: 2026-01-29
+published: true
 labels:
   - Questions
   - Answers
@@ -13,87 +13,40 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
+## Smart Questions
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+In software engineering&mdash;or any field, really&mdash;knowing how to ask ssmart questions is the difference from having to write multiple lines of code to achieve the same output versus writing a single, well-crafted line. In Eric S. Raymond's "How to Ask Questions the Smart Way", he illustrates how asking smart questions usually leads to clearer, more accurate, and faster responses by minimizing ambiguity and focusing attention on the actual problem.
 
-## What’s a smart question?
+## Having Context
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Asking smart questions are important because software engineering problems are diverse due to the wide range of programming languages and tools involved. Even seemingly minor details can be crucial in identifying the root cause of an issue. Additionally, most problems have multiple possible solutions and require systematic troubleshotting. Without sufficient context about the problem, the environment it is in, and the troubleshooting steps already taken, diagnosing and resolving an issue can become inefficient and unnecessarily time consuing.
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+## Discipline
 
-```
-Q: python date of the previous month
+An important aspect of asking smart questions is to do your research such as searching the web or reading documentation before seeking help. Using what is available and already known shows respect for others' time. Solutions for common issues are addressed in documentation or solved through prior discussions. Referencing these sources helps prevent repeatign previous troubleshooting attempts while allowing ore productive support.
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+## Examples
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
+I found a question on Stack Overflow about running the game, Doom, on an Arduino. The user wants to use a different display than what the original project was made for.The original project set up was built for a small 128×64 I2C OLED display. They have a bigger 1.54-inch SPI TFT display with an ST7789 controller, at 240×240 resolution. They ask if there's an "easy way" to make Doom work on their display and they linked the project's GitHub repo for more info.
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+The question is missing important details, which makes it hard to answer well. For example:
 
-I have solved this trouble in bash with:
+- What Arduino board are they using?
+- Which library for the display?
+- How is everything wired up?
+- Have they tried any changes? What errors did they get?
 
-echo $(date -d"3 month ago" "+%G%m%d")
+The phrase "easy solution" is too vague which leaves a lot of specifics out. Because of these gaps, it results in those assisting to have to ask additional questions and make assumptions which consumes more time. 
+The question resulting in a single comment asking, “What have you tried?” with a link to a page on "How to create a Minimal, Reproducible Example."
 
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
+Link to the [question asked](https://stackoverflow.com/questions/79878957/different-display-for-doom-on-arduino).
 
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
 
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
+The second question examined is a Stack Overflow post titled “Why doesn't NRVO work if there is a previous return statement?”. The author presents two short, self-contained C++ code examples that differ only in structure and asks why Named Return Value Optimization (NRVO) occurs in one case but not the other. The question clearly identifies the observed behavior, explains why the behavior is unexpected, and asks whether the limitation is imposed by the C++ standard or by current compiler implementations. The author further narrows the scope to C++17 and later and explicitly considers and dismisses potential causes, such as the use of const.
+This question follows the guidelines outlined in How To Ask Questions the Smart Way. It includes minimal reproducible examples, demonstrates prior understanding of the concept involved, and asks a specific “why” question rather than requesting a workaround. By clearly articulating what is known, what has been attempted, and what remains unclear, the author enables responders to give precise, standards-based explanations. As a result, the question allows for high-quality technical discussion rather than guesswork and repetitive solutions, making it an example of a smart and effective technical question.
  
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
-
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+Reference to the [question asked](https://stackoverflow.com/questions/79878890/why-doesnt-nrvo-work-if-there-is-a-previous-return-statement).
 
 ## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+Asking smart questions leads to better answers and more productive discussions. When a questions are clear and show genuine interest and effort, others are more willing to help.
