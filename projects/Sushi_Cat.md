@@ -19,7 +19,8 @@ For a Programming Animations class, we had to create an animation using Unity. W
 
 Here is the outcome:
 
-<video width="640" height="360" controls>
+<video width="640" height="360" controls playsinline>
   <source src="img/SushiCatVideo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
