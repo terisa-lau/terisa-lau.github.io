@@ -20,4 +20,3 @@ For a Programming Animations class, I created an animation using Unity. As part 
 Here is the outcome:
 
 
-
