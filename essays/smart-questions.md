@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/Screenshot 2026-01-29 185027.png">
+<div style="display: flex; justify-content: flex-start; margin: 20px 0;"> <img width="200px" src="../img/Screenshot 2026-01-29 185027.png" class="rounded" style="margin-right: 20px;"> </div>
 
 ## Smart Questions
 
