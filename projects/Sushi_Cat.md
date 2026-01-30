@@ -19,9 +19,5 @@ For a Programming Animations class, I created an animation using Unity. As part 
 
 Here is the outcome:
 
-<video controls playsinline width="100%">
-  <source src="img/SushiCatVideo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
