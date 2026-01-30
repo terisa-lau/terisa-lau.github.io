@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Bund.jpg
+image: img/IMG_1446.jpg
 title: "Study Abroad"
 date: 2025
 published: true
@@ -10,8 +10,6 @@ labels:
   - China
 summary: "A Study Abroad program I attended in Summer 2025."
 ---
-
-<img class="img-fluid" src="../img/QB.JPG">
 
 I studied abroad in Summer 2025 in Shanghai, China. Here are some images during my time there:
 
