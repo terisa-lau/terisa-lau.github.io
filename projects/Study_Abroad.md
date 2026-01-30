@@ -17,7 +17,7 @@ I studied abroad in Summer 2025 in Shanghai, China. Here are some images during 
 
 <img class="img-fluid" src="/img/QB.JPG">
 This picture was taken at Qibao Ancient Town.
-<img class="img-fluid" src="/img/GreenHouse.JPG">
+<img class="img-fluid" src="/img/IMG_2773.JPG">
 This picture was taken at the Shanghai Greenhouse Garden.
 <img class="img-fluid" src="/img/Museum.JPG">
 This picture was taken at the Shanghai Auto Museum.
