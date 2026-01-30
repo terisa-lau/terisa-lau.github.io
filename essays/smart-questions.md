@@ -39,7 +39,7 @@ The question is missing important details, which makes it hard to answer well. F
 The phrase "easy solution" is too vague which leaves a lot of specifics out. Because of these gaps, it results in those assisting to have to ask additional questions and make assumptions which consumes more time. 
 The question resulting in a single comment asking, “What have you tried?” with a link to a page on "How to create a Minimal, Reproducible Example."
 
-Link to the [question asked](https://stackoverflow.com/questions/79878957/different-display-for-doom-on-arduino).
+Reference to the [question asked](https://stackoverflow.com/questions/79878957/different-display-for-doom-on-arduino).
 
 
 The second question examined is a Stack Overflow post titled “Why doesn't NRVO work if there is a previous return statement?”. The author presents two short, self-contained C++ code examples that differ only in structure and asks why Named Return Value Optimization (NRVO) occurs in one case but not the other. The question clearly identifies the observed behavior, explains why the behavior is unexpected, and asks whether the limitation is imposed by the C++ standard or by current compiler implementations. The author further narrows the scope to C++17 and later and explicitly considers and dismisses potential causes, such as the use of const.
