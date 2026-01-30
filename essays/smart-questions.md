@@ -15,7 +15,7 @@ labels:
 
 ## Smart Questions
 
-In software engineering&mdash;or any field, really&mdash;knowing how to ask ssmart questions is the difference from having to write multiple lines of code to achieve the same output versus writing a single, well-crafted line. In Eric S. Raymond's "How to Ask Questions the Smart Way", he illustrates how asking smart questions usually leads to clearer, more accurate, and faster responses by minimizing ambiguity and focusing attention on the actual problem.
+In software engineering&mdash;or any field, really&mdash;knowing how to ask smart questions is the difference from having to write multiple lines of code to achieve the same output versus writing a single, well-crafted line. In Eric S. Raymond's "How to Ask Questions the Smart Way", he illustrates how asking smart questions usually leads to clearer, more accurate, and faster responses by minimizing ambiguity and focusing attention on the actual problem.
 
 ## Having Context
 
@@ -23,7 +23,7 @@ Asking smart questions are important because software engineering problems are d
 
 ## Discipline
 
-An important aspect of asking smart questions is to do your research such as searching the web or reading documentation before seeking help. Using what is available and already known shows respect for others' time. Solutions for common issues are addressed in documentation or solved through prior discussions. Referencing these sources helps prevent repeatign previous troubleshooting attempts while allowing ore productive support.
+An important aspect of asking smart questions is to do your research such as searching the web or reading documentation before seeking help. Using what is available and already known shows respect for others' time. Solutions for common issues are addressed in documentation or solved through prior discussions. Referencing these sources helps prevent repeating previous troubleshooting attempts while allowing more productive support.
 
 ## Examples
 
