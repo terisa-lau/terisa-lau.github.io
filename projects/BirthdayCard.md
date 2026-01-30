@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/bdayCard.png
+image: img/bdayCard.png
 title: "Interactive Birthday Card"
 date: 2022
 published: true
