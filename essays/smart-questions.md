@@ -19,7 +19,7 @@ In software engineering&mdash;or any field, really&mdash;knowing how to ask smar
 
 ## Having Context
 
-Asking smart questions are important because software engineering problems are diverse due to the wide range of programming languages and tools involved. Even seemingly minor details can be crucial in identifying the root cause of an issue. Additionally, most problems have multiple possible solutions and require systematic troubleshotting. Without sufficient context about the problem, the environment it is in, and the troubleshooting steps already taken, diagnosing and resolving an issue can become inefficient and unnecessarily time consuing.
+Asking smart questions are important because software engineering problems are diverse due to the wide range of programming languages and tools involved. Even seemingly minor details can be crucial in identifying the root cause of an issue. Additionally, most problems have multiple possible solutions and require systematic troubleshotting. Without sufficient context about the problem, the environment it is in, and the troubleshooting steps already taken, diagnosing and resolving an issue can become inefficient and unnecessarily time consuming.
 
 ## Discipline
 
@@ -37,7 +37,7 @@ The question is missing important details, which makes it hard to answer well. F
 - Have they tried any changes? What errors did they get?
 
 The phrase "easy solution" is too vague which leaves a lot of specifics out. Because of these gaps, it results in those assisting to have to ask additional questions and make assumptions which consumes more time. 
-The question resulting in a single comment asking, “What have you tried?” with a link to a page on "How to create a Minimal, Reproducible Example."
+The question resulted in a single comment asking, “What have you tried?” with a link to a page on "How to create a Minimal, Reproducible Example."
 
 Reference to the [question asked](https://stackoverflow.com/questions/79878957/different-display-for-doom-on-arduino).
 
@@ -49,4 +49,4 @@ Reference to the [question asked](https://stackoverflow.com/questions/79878890/w
 
 ## Conclusion
 
-Asking smart questions leads to better answers and more productive discussions. When a questions are clear and show genuine interest and effort, others are more willing to help.
+Asking smart questions leads to better answers and more productive discussions. When questions are clear and show genuine interest and effort, others are more willing to help.
