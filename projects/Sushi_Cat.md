@@ -15,12 +15,13 @@ summary: "An animation made using Unity for a Programming Animations class."
 <div class="text-center p-4">
 </div>
 
-For a Programming Animations class, we had to create an animation using Unity. We brain stormed ideas and pitched them to our fellow classmates for feedback. I decided to create my animation on some of the things I like: sushi and cats!
+For a Programming Animations class, I created an animation using Unity. As part of the project, we brainstormed ideas and pitched them to classmates to receive feedback before development. I chose to base my animation on two personal interests—sushi and cats—which allowed me to create an engaging and playful concept. Through this project, I gained experience working with Unity’s animation system, organizing assets, and translating creative ideas into a functional animated sequence.
 
 Here is the outcome:
 
-<video width="640" height="360" controls playsinline>
+<video controls playsinline width="100%">
   <source src="img/SushiCatVideo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
