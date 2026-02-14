@@ -1,22 +1,24 @@
 ---
 layout: essay
 type: essay
-title: "My Software Engineering Goals"
+title: "Make Code Pretty"
 # All dates must be YYYY-MM-DD format!
-date: 2026-01-29
+date: 2026-02-13
 published: true
 labels:
-  - Software Engineering
-  - Goals
+  - Coding Standards
 ---
 
 
-## Software Engineering Pathway
+## Stop Judging My "HandWriting"!
 
-<div style="display: flex; justify-content: flex-start; margin: 20px 0;"> <img width="200px" src="../img/SE.png" class="rounded" style="margin-right: 20px;"> </div>
+Coding standards are often reduced to minor stylistic debates—two spaces or four, tabs or spaces, single quotes or double quotes. At first, I shared that skepticism. It seemed excessive to treat formatting choices as a serious engineering concern. However, after my first week using **ESLint** in **Visual Studio Code**, I started to view it differently.
 
-My interest in software engineering originated from playing video games and thinking about how I could create my own games with features tailored to my ideas. I was fascinated by how technology and the internet can connect people from all over the world through a screen, enabling shared experiences regardless of physical distance.
+Initially, the experience was frustrating. Red underlines appeared throughout my code. ESLint objected to my indentation, my quotation marks, and even small habits I had developed over time. I remember thinking: why does it matter if I use the Tab key instead of two spaces? Why insist on single quotes when double quotes seem clearer? The volume of errors made it feel as though I was fighting the tool rather than writing software.
 
-In high school, I took my first computer science class, where I learned basic programming concepts using Scratch. I enjoyed being able to create This experience motivated me to continue exploring computer science, leading me to take AP Computer Science, which introduced more challenging concepts. In that course, I worked on short programming challenges and problem-solving tasks such as iterating through arrays and manipulating strings, helping me develop a stronger foundation in logical thinking and programming.
+Yet as I worked through the warnings, I realized that many of them were not merely stylistic. ESLint highlighted unused variables, inconsistent return statements, and unsafe equality comparisons. In correcting these issues, I was not just complying with a formatting rule; I was learning more about JavaScript’s quirks and avoiding subtle mistakes. The tool functioned as a quiet mentor, pointing out patterns that experienced developers have learned to avoid.
 
-In the future, I am leaning toward web design and interactive development, particularly creating games and applications for websites or mobile platforms. Some skills I hope to develop are my understanding of data structures and algorithms, further refinement of my coding skills, and learning how front-end development, back-end systems, and user experience design work together to create engaging and responsive applications. By advancing these skills, I hope to build projects that effectively combine creativity with technical problem-solving.
+Over time, the irritation diminished. Once automatic formatting was enabled, the smaller stylistic decisions disappeared from my workflow. The standards were no longer obstacles; they became background structure. With consistency enforced automatically, I could focus more on problem-solving and less on presentation.
+
+Coding standards, when thoughtfully applied and automatically enforced, are not about aesthetics. They reduce cognitive load, encourage best practices, and make collaboration smoother. My first week with ESLint was both uncomfortable and instructive—but ultimately, it demonstrated that even small constraints can meaningfully improve the clarity and quality of code.
+
