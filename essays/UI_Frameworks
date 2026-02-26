@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Software Engineering Goals"
+title: "The UI Dev Experience"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-29
 published: true
@@ -11,12 +11,14 @@ labels:
 ---
 
 
-## Software Engineering Pathway
+## The Illusion of Simplicity
 
 <div style="display: flex; justify-content: flex-start; margin: 20px 0;"> <img width="200px" src="../img/SE.png" class="rounded" style="margin-right: 20px;"> </div>
 
-My interest in software engineering originated from playing video games and thinking about how I could create my own games with features tailored to my ideas. I was fascinated by how technology and the internet can connect people from all over the world through a screen, enabling shared experiences regardless of physical distance.
+When I first began learning HTML and CSS, everything felt pretty straightforward and simple. A few lines of code could create headings, paragraphs, or change the background and text color. Adjust a color property, and the mood of the page changes. At that level, web design felt approachable.
 
-In high school, I took my first computer science class, where I learned basic programming concepts using Scratch. I enjoyed being able to create This experience motivated me to continue exploring computer science, leading me to take AP Computer Science, which introduced more challenging concepts. In that course, I worked on short programming challenges and problem-solving tasks such as iterating through arrays and manipulating strings, helping me develop a stronger foundation in logical thinking and programming.
+However, that sense of simplicity faded quickly when we moved beyong static text and basic styling into full user interface design. I was no longer adding just text and changing colors; I was building navigation bars, structuring layouts, and thinking about spacing, alignments, and responsiveness. A "simple" navigation bar required lists, achors, hover states, automatic adjustments to the screen size, and so much more. That was the moment I realized that madern UI design is hiding the complexities behing a "simple" and sleek looking outcome.
 
-In the future, I am leaning toward web design and interactive development, particularly creating games and applications for websites or mobile platforms. Some skills I hope to develop are my understanding of data structures and algorithms, further refinement of my coding skills, and learning how front-end development, back-end systems, and user experience design work together to create engaging and responsive applications. By advancing these skills, I hope to build projects that effectively combine creativity with technical problem-solving.
+## The Power of Bootstrap 5
+
+I was then introduced to Bootstrap 5. Premade classes for design. I expected it to make things easier. However, it felt overwhelming as there 
