@@ -13,7 +13,7 @@ labels:
 
 ## The Illusion of Simplicity
 
-<div style="display: flex; justify-content: flex-start; margin: 20px 0;"> <img width="200px" src="../img/SE.png" class="rounded" style="margin-right: 20px;"> </div>
+<div style="display: flex; justify-content: flex-start; margin: 20px 0;"> <img width="200px" src="../img/navbarimg.png" class="rounded" style="margin-right: 20px;"> </div>
 
 When I first began learning HTML and CSS, everything felt pretty straightforward and simple. A few lines of code could create headings, paragraphs, or change the background and text color. Adjust a color property, and the mood of the page changes. At that level, web design felt approachable.
 
