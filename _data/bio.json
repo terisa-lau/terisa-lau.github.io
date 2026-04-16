@@ -20,13 +20,20 @@
     { "name": "Cats" }
   ],
   "skills": [
+    {"name": "Soft Skills",
+      "keywords": ["Written and verbal Communication", "Customer service","Technical troubleshooting","Team leadership and collaboration", "Problem-solving", "Adaptability", "Organization and time Management" ]
+    },
     {
       "name": "Languages and Frameworks",
       "keywords": ["Java", "Javascript", "TypeScript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub, Microsoft Office, Google Suite, Maya, Unity, Adobe, Microsoft Clipchamp" ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [ "English", "Chinese (basic)" ]
     }
   ],
   "education": [
@@ -73,9 +80,9 @@
   "awards": [
     {
       "title": "Deans List",
-      "date": "2023",
+      "date": "Spring 2023",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "An award for having a GPA of 3.5 or higher."
+      "summary": "Awarded for academic ecellence."
     }
   ],
   "references": [
