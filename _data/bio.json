@@ -6,8 +6,12 @@
     "email": "tlau6@hawaii.edu",
     "phone": "808-429-8819",
     "website": "https://terisa-lau.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
-    "location": {"city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaiʻi. I expect to graduate in Spring 2027.",
+    "location": {
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
       { "network": "github", "username": "terisa-lau", "url": "http://github.com/terisa-lau" },
       { "network": "linkedin", "username": "terisa-lau", "url": "http://linkedin.com/in/terisa-lau" }
@@ -15,35 +19,71 @@
   },
   "interests": [
     { "name": "Music" },
-    { "name": "Video Games" },
-    { "name": "Cooking" },
+    { "name": "UI/UX Design" },
+    { "name": "Web Development" },
+    { "name": "Digital Art" },
     { "name": "Cats" }
   ],
   "skills": [
-    {"name": "Soft Skills",
-      "keywords": ["Written and verbal Communication", "Customer service","Technical troubleshooting","Team leadership and collaboration", "Problem-solving", "Adaptability", "Organization and time management" ]
+    {
+      "name": "Soft Skills",
+      "keywords": [
+        "Written and Verbal Communication",
+        "Customer Service",
+        "Technical Troubleshooting",
+        "Team Leadership and Collaboration",
+        "Problem-Solving",
+        "Adaptability",
+        "Organization and Time Management"
+      ]
     },
     {
-      "name": "Languages and Frameworks",
-      "keywords": ["Java", "Javascript", "TypeScript", "Python" ]
+      "name": "Programming Languages and Frameworks",
+      "keywords": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "React",
+        "Bootstrap"
+      ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub, Microsoft Office, Google Suite, Maya, Unity, Adobe, Microsoft Clipchamp" ]
+      "name": "Tools and Platforms",
+      "keywords": [
+        "Git/GitHub",
+        "Microsoft Office",
+        "Google Suite",
+        "Adobe Creative Suite",
+        "Microsoft Clipchamp",
+        "Maya",
+        "Unity",
+        "PostgreSQL",
+        "MacOS",
+        "Windows"
+      ]
     },
     {
       "name": "Languages",
-      "keywords": [ "English", "Chinese (basic)" ]
+      "keywords": [
+        "English",
+        "Chinese (Basic)"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2027)",
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Computer Science",
       "studyType": "B.A.",
       "startDate": "2023-08-25",
       "endDate": "Present",
-      "courses": [ "Software Engineering", "Computational Media Systems", "Machine Learning", "Data Structures and Algorithms", "Programming Animations"
+      "courses": [
+        "Software Engineering",
+        "Computational Media Systems",
+        "Machine Learning Methods",
+        "Data Structures and Algorithms",
+        "Programming Animations"
       ]
     }
   ],
@@ -57,8 +97,9 @@
       "summary": "",
       "highlights": [
         "Provided technical support to students, faculty, and staff via phone, email, and walk-in service.",
-        "Diagnosed and troubleshooted a wide range of hardware and software issues, including campus network connectivity, university email clients, and learning management system access", "Collaborated with senior IT staff to escalate complex issues and contribute to team-wide problem-solving efforts."
-        
+        "Diagnosed and troubleshot a wide range of hardware and software issues, including campus network connectivity, university email clients, and learning management system access.",
+        "Assisted with account management tasks such as password resets, account unlocks, and multi-factor authentication setup.",
+        "Collaborated with senior IT staff to escalate complex issues and contribute to team-wide problem-solving efforts."
       ]
     }
   ],
@@ -69,20 +110,20 @@
       "position": "Camp Counselor",
       "startDate": "2023-01-01",
       "endDate": "Present",
-      "summary": "Lead educational activities during their Winter and Summer camps.",
+      "summary": "Lead educational activities during Winter and Summer camps.",
       "highlights": [
-        "Planned, organized, and led activities ",
-        "Prepared materials and coordinated schedules with other staff.",
-        "Supervised and ensured the safety of campers."
+        "Planned, organized, and led engaging activities for campers.",
+        "Prepared materials and coordinated schedules with fellow staff members.",
+        "Supervised campers and maintained a safe, supportive environment."
       ]
     }
   ],
   "awards": [
     {
-      "title": "Deans List",
-      "date": "Spring 2023",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "Awarded for academic ecellence."
+      "title": "Dean's List",
+      "date": "Spring 2024",
+      "awarder": "University of Hawaiʻi at Mānoa",
+      "summary": "Awarded for academic excellence."
     }
   ],
   "references": [
