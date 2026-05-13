@@ -6,7 +6,8 @@ title: "A for Effort"
 date: 2026-05-12
 published: true
 labels:
-  - Design Patterns
+  - Estimations
+  - Time management
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/effortestim.png">
@@ -43,22 +44,10 @@ I would break my tasks into smaller portions after fully thinking through what p
 
 ## 6. AI Use
 
-I used Claude (Anthropic) and ChatGPT (OpenAI) during the project, primarily for implementation help rather than for estimating or tracking effort directly.
+I used Claude (Anthropic) and ChatGPT (OpenAI, GPT-4) during the project, primarily for implementation help rather than for estimating or tracking effort directly.
 
-**Tool:** Claude (Anthropic) / ChatGPT (OpenAI, GPT-4)
+Representative prompts included things like "How do I implement an authenticated page only users with certain roles can have access to?", "What's wrong with this ESLint error: [pasted error]?", and "Give me an example of how to implement RSVP logic that stores and removes a user's action in the database."
 
-**Representative prompts:**
-
-- *"How do I implement an authenticated page only users with certain roles can have access to?"*
-- *"What's wrong with this ESLint error: [pasted error]?"*
-- *"Give me an example of how to implement RSVP logic that stores and removes a user's action in the database."*
-
-**Time breakdown (approximate, per task session):**
-
-- Prompt engineering: ~2–5 minutes per issue
-- Generation and reading output: ~3–7 minutes
-- Verification and manual editing: ~5–15 minutes (higher for anything touching auth or database logic)
-
-**What was accepted vs. edited:**
+Per task session, I spent roughly 2–5 minutes on prompt engineering, 3–7 minutes reading the generated output, and 5–15 minutes on verification and manual editing, with the higher end being anything that touched auth or database logic.
 
 Most AI-generated code needed at least some adjustment. Responses often assumed a slightly different project structure than what I had, so field names, schema references, or import paths needed to be corrected. For simpler tasks like fixing ESLint errors or getting a styling snippet, the output was usually usable with minor tweaks. For more complex features like the admin profile update or RSVP logic, the AI gave a solid starting point but the final implementation required meaningful editing to fit the actual codebase. I didn't paste and submit. I read through everything, cut what didn't apply, and made sure I understood what the remaining code was doing before using it.
