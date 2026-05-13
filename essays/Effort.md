@@ -39,7 +39,7 @@ In terms of accuracy, it was probably close, but not precise. Non-coding time in
 
 ## 5. What would you change next time?
 
-I would break my tasks into smaller portions after fulling thinking what parts I would need to implement at once. I'd use earlier completed issues as a reference point for later ones and track time in shorter increments during longer tasks.
+I would break my tasks into smaller portions after fully thinking through what parts I would need to implement at once. I'd use earlier completed issues as a reference point for later ones and track time in shorter increments during longer tasks.
 
 ## 6. AI Use
 
@@ -48,11 +48,13 @@ I used Claude (Anthropic) and ChatGPT (OpenAI) during the project, primarily for
 **Tool:** Claude (Anthropic) / ChatGPT (OpenAI, GPT-4)
 
 **Representative prompts:**
+
 - *"How do I implement an authenticated page only users with certain roles can have access to?"*
 - *"What's wrong with this ESLint error: [pasted error]?"*
 - *"Give me an example of how to implement RSVP logic that stores and removes a user's action in the database."*
 
 **Time breakdown (approximate, per task session):**
+
 - Prompt engineering: ~2–5 minutes per issue
 - Generation and reading output: ~3–7 minutes
 - Verification and manual editing: ~5–15 minutes (higher for anything touching auth or database logic)
