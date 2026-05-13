@@ -1,14 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Effort Estimation and Tracking Reflection"
+title: "A for Effort"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-12
 published: true
 labels:
-  - Project Management
-  - Software Engineering
-  - Reflection
+  - Design Patterns
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/effortestim.png">
