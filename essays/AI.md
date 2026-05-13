@@ -19,7 +19,7 @@ AI has become a regular part of how students learn, especially in technical fiel
 
 ## II. Personal Experience with AI
 
-### Experience WODs (e.g. E18)
+### Experience WODs
 
 For WODs, I leaned on ChatGPT and Claude fairly often. I would paste the portion of the requirement I needed assistance with and ask AI to generate an initial solution. This helped me understand the general direction I needed to take and I would adjust the code to the assignment if needed. The downside was that AI sometimes gave me more than I asked for — overly complex solutions with extra logic I didn't need and couldn't always follow. I made it a habit to not just paste whatever it gave me. I would read through the code, cut what didn't belong, and make sure I understood what the remaining parts were actually doing.
 
