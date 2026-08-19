@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/bowlletins.png
 title: "Bow-lletins"
-date: 2025
+date: 2026
 published: true
 labels:
   - JavaScript
