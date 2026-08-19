@@ -4,7 +4,7 @@ type: project
 image: img/IMG_1446.jpg
 title: "Study Abroad in Shanghai"
 date: 2025
-published: true
+published: false
 labels:
   - Travel
   - China
